@@ -1,3 +1,5 @@
 .secret
 test*.input
 **__pycache__*/*
+
+settings.json
